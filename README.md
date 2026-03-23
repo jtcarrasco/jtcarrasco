@@ -1,9 +1,9 @@
 # Jason Carrasco
 
-AI Integration Engineer building automation tools with Claude Code.
-
-15+ years in web development — now focused on practical LLM integration,
-agentic systems, and AI-assisted workflow automation.
+Web Developer and Project Manager with 15 years of experience leading the design,
+development, and launch of 350+ websites and web applications — primarily in
+educational technology. Now integrating AI and LLM-powered automation into
+modern web workflows.
 
 ---
 
@@ -17,8 +17,16 @@ writes structured reports to Obsidian. Built with Claude CLI, JSearch, Adzuna, a
 
 ## Stack
 
-Claude API · Prompt Engineering · WordPress · PHP · JavaScript · Docker · Linux · Syncthing
+**Front-End:** HTML5 · CSS3 · SCSS · JavaScript · jQuery · Responsive Web Design · WCAG 2.1 / ADA
+
+**Back-End & Infra:** PHP · REST APIs · Node.js · Docker · Linux · Git
+
+**CMS:** WordPress · Shopify · Webflow · Jekyll · HubSpot · Squarespace
+
+**AI & Automation:** Claude API · Prompt Engineering · Agentic Workflows · LLM Integration
+
+**Design:** Figma · Adobe Creative Suite · Affinity Suite
 
 ---
 
-[cosmikdebris.site](https://cosmikdebris.site) · [LinkedIn](https://linkedin.com/in/jtcarrasco)
+[jtcarrasco.com](https://jtcarrasco.com) · [LinkedIn](https://linkedin.com/in/jtcarrasco)
