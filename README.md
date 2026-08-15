@@ -9,9 +9,14 @@ modern web workflows.
 
 ## Featured Projects
 
-**[001droid — Autonomous Job Search Agent](https://github.com/jtcarrasco/001droid)**
-Autonomous Claude Code agent that searches job boards, deduplicates results, and
-writes structured reports to Obsidian. Built with Claude CLI, JSearch, Adzuna, and Syncthing.
+**[job-search-agent](https://github.com/jtcarrasco/job-search-agent)**
+Autonomous Claude Code agent that searches job boards, deduplicates results, and writes
+structured Markdown reports. The entire agent is defined in a single instructions file —
+no traditional application code, just an LLM with tool access running on a schedule.
+
+**[tech.jtcarrasco.com](https://github.com/jtcarrasco/tech-jtcarrasco)**
+Site for my IT training and consulting business — licensed and insured, built and run
+end to end (design, dev, hosting, ops).
 
 ---
 
