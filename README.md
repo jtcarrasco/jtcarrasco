@@ -9,7 +9,7 @@ modern web workflows.
 
 ## Featured Projects
 
-**[Audiobookshelf for Omarchy](https://github.com/jtcarrasco/omarchy-audiobookshelf)**
+**[Audiobookshelf for Omarchy](https://github.com/jtcarrasco/audiobookshelf-player)**
 An Audiobookshelf client for the Omarchy desktop bar and DankMaterialShell: books and
 podcasts with synced progress, chapters and covers, fully keyboard-driven. Built in
 QML with a small Python backend, and submitted to the Omarchy plugin marketplace.
